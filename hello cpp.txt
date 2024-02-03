@@ -1,0 +1,6 @@
+#include<iostream.h>
+using namespacce std;
+int main(){
+    cout<<"welcome to git & github ";
+    return 0;
+}
